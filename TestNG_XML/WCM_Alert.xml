@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="DealerPath Application Automation Test Suite">
+	<test name="Dealer Path Login">
+	
+	<classes>
+			<class 
+				name="com.deere.Helpers.Invoke_WCM">
+			</class>
+			
+<!-- <class 
+				name="wcm_content.Alert_WCM_TestCase">
+			</class>
+			 -->
+		</classes>
+
+	</test>
+	
+</suite>

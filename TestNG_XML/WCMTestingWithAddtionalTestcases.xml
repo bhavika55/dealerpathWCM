@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="DealerPath Application Automation Test Suite">
+	<test name="Dealer Path Login">
+	
+	<classes>
+	
+<!-- 		    <class 
+				name="com.deere.TestCasesFactory.Homepage_TestCase">
+			</class>  -->
+			 
+<!-- 		 <class 
+				name="com.deere.TestCasesFactory.Alerts_TestCase">
+			</class>  -->
+
+<!-- 		    <class 
+				name="com.deere.TestCasesFactory.Announcement_TestCase">
+			</class>  -->
+			
+		    <class 
+				name="com.deere.TestCasesFactory.Favourite_TestCase">
+			</class> 
+		
+			
+<!-- 		<class 
+				name="com.deere.TestCasesFactory.PortletLinks_TestCase">
+			</class>   -->
+			
+<!-- 		<class 
+				name="com.deere.TestCasesFactory.SearchPage_TestCase">
+			</class>  
+		
+			<class 
+				name="com.deere.TestCasesFactory.PortalLeftNavigation_TestCase">
+			</class>  --> 
+			
+			<class 
+				name="com.deere.TestCasesFactory.EndImpersonate_TestCase">
+			</class>  
+		</classes>
+
+	</test>
+
+
+	
+</suite>
